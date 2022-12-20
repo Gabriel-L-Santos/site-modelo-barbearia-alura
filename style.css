@@ -94,9 +94,6 @@ footer {
 	margin: 20px 0 0;
 }
 
-main {
-}
-
 form {
 	margin: 40px 0;
 }
@@ -248,7 +245,7 @@ td, th {
 }
 
 @media screen and (max-width: 480px) {
-	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos {
 		width: auto;
 	}
 
