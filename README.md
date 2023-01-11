@@ -11,7 +11,7 @@ Este é um modelo de site de barbearia com o nome fictício "Barbearia Alura", f
 
 ## Meu processo de Desenvolvimento
 
-texto em breve.......
+Fiz este modelo de site de barbearia enquanto assistia às aulas do Professor Pedro Marins sobre HTML e CSS na Alura. Após terminar o curso, ele lançou um desafio para finalizar os detalhes finais do projeto, que seriam: usar a mesma fonte em todas as páginas, e adaptar todas as páginas para o formato mobile, e é nesta última parte que estou trabalhando atualmente.
 
 ## Autor do Projeto
 
