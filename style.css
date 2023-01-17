@@ -96,6 +96,7 @@ footer {
 
 form {
 	margin: 40px 0;
+	text-align: center;
 }
 
 form label, form legend {
@@ -106,7 +107,7 @@ form label, form legend {
 
 .input-padrao {
 	display: block;
-	margin: 0 0 20px;
+	margin: 0 25% 20px;
 	padding: 10px 25px;
 	width: 50%;
 }
@@ -134,7 +135,7 @@ form label, form legend {
 }
 
 table {
-	margin: 20px 0 40px;
+	margin: 20px 43% 40px;
 }
 
 thead {
@@ -241,8 +242,14 @@ td, th {
 }
 
 @media screen and (max-width: 480px) {
-	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos, .produtos li {
+	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos {
 		width: auto;
+	}
+
+	.produtos li {
+		width: auto;
+		padding-right: 43px;
+		padding-left: 48px;
 	}
 
 	h1 {
@@ -255,7 +262,19 @@ td, th {
 	
 	img {
 		width: auto;
-	}	
+	}
+	
+	form {
+		margin: 40px 0;
+		text-align: center;
+	}
+
+	.input-padrao {
+		display: block;
+		margin: 0px 75px 20px;
+		padding: 10px 25px;
+		width: 50%;
+	}
 
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
