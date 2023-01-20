@@ -1,5 +1,8 @@
 # Site Modelo - Barbearia Alura
 
+## Link do projeto
+ https://bar-be-aria-alura.netlify.app
+
 ![](./gif/barbearia-alura.gif)
 
 Este é um modelo de site de barbearia com o nome fictício "Barbearia Alura", feito durante o curso de HTML e CSS ministrado por Pedro Marins no site de cursos online da Alura.
