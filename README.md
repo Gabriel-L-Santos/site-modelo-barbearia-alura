@@ -6,7 +6,7 @@
  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-![](./gif/barbearia-alura.gif)
+![](./gif-readme/barbearia-alura.gif)
 
 Este é um modelo de site de barbearia com o nome fictício "Barbearia Alura", feito durante o curso de HTML e CSS ministrado por Pedro Marins no site de cursos online da Alura.
 
